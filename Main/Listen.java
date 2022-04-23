@@ -1,5 +1,3 @@
-package Major_Project.Main;
-
 import jm.music.data.Note;
 import jm.util.Play;
 import org.firmata4j.Pin;

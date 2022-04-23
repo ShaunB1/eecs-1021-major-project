@@ -1,5 +1,3 @@
-package Major_Project.Main;
-
 import org.firmata4j.Pin;
 import org.firmata4j.ssd1306.MonochromeCanvas;
 import org.firmata4j.ssd1306.SSD1306;

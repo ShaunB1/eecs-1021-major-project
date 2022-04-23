@@ -1,5 +1,3 @@
-package Major_Project.Main;
-
 public class Pins {
     static final int A0 = 14;
     static final int D6 = 6;
